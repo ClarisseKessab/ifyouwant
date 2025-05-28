@@ -16,8 +16,8 @@ function App() {
         </h1>
         <div className="border-t-2 border-black pt-8 mb-12">
           <p className="text-lg md:text-xl text-black font-mono mb-8 leading-relaxed">
-          If you want est un duo créatif qui conçoit des marques et des sites Webflow sur-mesure, pensés pour la clarté, la performance et le SEO.
-          Nous accompagnons les startups, les SaaS & les indépendants dans la création ou la refonte de leur site web, avec une approche design + technique pour atteindre leurs objectifs.
+          If you want, c’est Andréa & Clarisse.
+          Un duo design + Webflow pour des sites clairs, rapides et utiles.
           </p>
           <a
             href="https://ifyouwant.notion.site/Nos-r-alisations-201a4e84b3f4807f9672ce4f84462e74"
@@ -29,7 +29,7 @@ function App() {
           </a>
         </div>
         <p className="font-mono text-black">
-          Contact : teteauandrea99@gmail.com
+          Contact : teteauandrea99@gmail.com <br />
           Contact : clarisse.kessab@gmail.com
         </p>
       </motion.div>
