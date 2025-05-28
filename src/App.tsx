@@ -17,7 +17,7 @@ function App() {
         <div className="border-t-2 border-black pt-8 mb-12">
           <p className="text-lg md:text-xl text-black font-mono mb-8 leading-relaxed">
           IF YOU WANT, c’est Andréa & Clarisse.<br />
-          Un duo design + Webflow pour des sites clairs, rapides et utiles.
+          Un duo design + Webflow pour des sites clairs,<br /> rapides et utiles.
           </p>
           <a
             href="https://ifyouwant.notion.site/Nos-r-alisations-201a4e84b3f4807f9672ce4f84462e74"
