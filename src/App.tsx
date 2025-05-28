@@ -11,17 +11,16 @@ function App() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
-        <h1 className="text-3xl md:text-5xl font-bold text-black mb-12 uppercase tracking-tight">
+        <h1 className="text-5xl md:text-6xl font-bold text-black mb-12 uppercase tracking-tight">
           Notre site est<br />en construction
         </h1>
         <div className="border-t-2 border-black pt-8 mb-12">
           <p className="text-lg md:text-xl text-black font-mono mb-8 leading-relaxed">
-            IF YOU WANT est une agence créative spécialisée dans la création de marques,
-            les sites Webflow, la refonte de sites web et l'optimisation SEO pour les startups
-            et les entreprises SaaS.
+          If you want est un duo créatif qui conçoit des marques et des sites Webflow sur-mesure, pensés pour la clarté, la performance et le SEO.
+          Nous accompagnons les startups, les SaaS & les indépendants dans la création ou la refonte de leur site web, avec une approche design + technique pour atteindre leurs objectifs.
           </p>
           <a
-            href="https://your-notion-page-url.com"
+            href="https://ifyouwant.notion.site/Nos-r-alisations-201a4e84b3f4807f9672ce4f84462e74"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center bg-black hover:bg-gray-900 text-white px-8 py-4 font-mono transition-colors"
@@ -30,7 +29,8 @@ function App() {
           </a>
         </div>
         <p className="font-mono text-black">
-          Contact : hello@ifyouwant.agency
+          Contact : teteauandrea99@gmail.com
+          Contact : clarisse.kessab@gmail.com
         </p>
       </motion.div>
     </div>
