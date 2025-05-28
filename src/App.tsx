@@ -11,7 +11,7 @@ function App() {
         animate={{ opacity: 1 }}
         transition={{ duration: 0.8 }}
       >
-        <h1 className="text-[6vw] md:text-[6vw] font-bold text-black mb-12 uppercase tracking-tight">
+        <h1 className="text-3xl md:text-5xl font-bold text-black mb-12 uppercase tracking-tight">
           Notre site est<br />en construction
         </h1>
         <div className="border-t-2 border-black pt-8 mb-12">
